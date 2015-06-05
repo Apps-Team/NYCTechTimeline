@@ -1,0 +1,11 @@
+{
+  "generator-aurora": {
+    "projectName": "ttnyc_v1",
+    "projectSlug": "ttnyc_v1",
+    "projectType": "aurora",
+    "projectOptions": [
+      "Bower",
+      "Grunt"
+    ]
+  }
+}
